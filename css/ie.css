@@ -1,0 +1,50 @@
+#header h1 {
+	line-height: 110px;
+	background-position: 0 16px;
+	*zoom: 1;
+}
+
+#header h1 span {
+	line-height: 110px;
+	*zoom: 1;
+}
+
+#header h2 {
+	line-height: 28px;
+	*zoom:1;
+	margin-top:-25px;
+}
+
+#main-content h3 {
+	line-height: 28px;
+	*zoom:1;
+}
+
+#main-content .block h2 {
+	line-height: 22px;
+	*zoom:1;
+}
+
+#nav a {
+	line-height: 22px;
+	*zoom: 1;
+}
+
+#right .btn {
+	line-height: 50px;
+	*zoom:1;
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+
+#right #block-block-4 p {
+	margin-bottom: 40px;
+}
+
+#footer h5 {
+	line-height: 20px;
+}
+
+#footer h6 {
+	line-height: 30px;
+}
